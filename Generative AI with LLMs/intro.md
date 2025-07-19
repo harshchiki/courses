@@ -1,0 +1,66 @@
+# 📘 Generative AI with Large Language Models — Course Summary
+
+Welcome to an in-depth course on building applications using **Generative AI and Large Language Models (LLMs)**. This course is designed for AI enthusiasts, engineers, and data scientists aiming to understand, train, fine-tune, and deploy LLMs.
+
+---
+
+## 🌟 Course Highlights
+- Learn how **LLMs reduce development time** drastically.
+- Deep dive into **transformer architecture**, model training, fine-tuning, and instruction tuning.
+- End-to-end coverage of the **Generative AI project lifecycle**:
+  - Scoping
+  - Model selection
+  - Tuning
+  - Deployment
+  - Application integration
+- Understand **prompt engineering** and generation control.
+- Explore **model alignment** with human values using RLHF.
+
+---
+
+## 🧪 Hands-On Labs
+Each week includes labs hosted in an AWS environment (free to learners):
+
+### Week 1:
+- Dialogue summarization using varied prompts.
+- Experiment with **inference parameters** and **sampling strategies**.
+
+### Week 2:
+- Fine-tune Hugging Face models using:
+  - Full fine-tuning
+  - **Parameter-Efficient Fine-Tuning (PEFT)**
+
+### Week 3:
+- Implement **Reinforcement Learning from Human Feedback (RLHF)**.
+- Train a **reward model** to classify toxic vs. non-toxic outputs.
+
+---
+
+## 👨‍🏫 Instructors
+- **Andrew Ng**
+- **Antje Barth & Mike Chambers** (GenAI Developer Advocates, AWS)
+- **Shelbee Eigenbrode & Chris Fregly** (GenAI Solutions Architects, AWS)
+- Labs by **Chris Fregly**
+
+---
+
+## 🛠 Prerequisites
+- Basic Python programming
+- Familiarity with data science & ML concepts
+- (Optional) TensorFlow experience
+
+---
+
+## 💼 Industry Relevance
+- LLMs are a **general-purpose technology** like electricity or deep learning.
+- High demand for professionals who can build LLM-based apps.
+- Course positions learners for impactful **AI/ML roles**.
+
+---
+
+## 🎯 Outcome
+- Gain **deep technical understanding** of LLMs.
+- Access **practical code examples** ready for real-world use.
+- Be prepared to **build and deploy** powerful generative AI applications.
+
+---
